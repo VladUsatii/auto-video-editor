@@ -15,8 +15,8 @@
 
 7) Effects are generated for each image and the images are blitted onto screen.
 
-8) Black backdrop turns to green.
+8) New form is generated that allows user to "check" what they want to add to the video.
 
-9) Video is exported to mp4 and is ready to be chroma keyed on top of content.
+9) New video is exported with checked features (e.g. music).
 
-10) No more editing!
+10) No more editing!!
